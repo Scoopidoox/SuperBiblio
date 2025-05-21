@@ -4,8 +4,6 @@
 <p align="center">
     <b>A movie's library implemented in C# with an ORM.</b>
 </p>
-
-````markdown
 # SuperBiblio
 
 **SuperBiblio** is a C# console application for managing a movie library. It provides features to list, add, delete, and count movies, with support for three data access modes: text file, SQL Server, and Entity Framework.
