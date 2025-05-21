@@ -1,6 +1,11 @@
-````markdown
-![SuperBiblio Banner](.github/assets/banner.png)
+﻿<p align="center">
+    <img width="100%" src=".github/assets/banner.png" alt="Banner for SuperBiblio.">
+</p>
+<p align="center">
+    <b>A movie's library implemented in C# with an ORM.</b>
+</p>
 
+````markdown
 # SuperBiblio
 
 **SuperBiblio** is a C# console application for managing a movie library. It provides features to list, add, delete, and count movies, with support for three data access modes: text file, SQL Server, and Entity Framework.
@@ -32,7 +37,7 @@ SuperBiblio/
 
 ## Technologies
 
-* .NET 6+
+* .NET 9
 * C# 10
 * Entity Framework Core
 * SQL Server
