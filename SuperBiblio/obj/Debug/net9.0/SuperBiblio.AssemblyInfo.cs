@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperBiblio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca412268f682ac5d2316ae37b35d91917a60ac4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperBiblio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperBiblio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
